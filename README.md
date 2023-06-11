@@ -1,4 +1,4 @@
-#👋 Olá eu sou João Valente, seja bem vindos aos meus códigos!
+# 👋 Olá eu sou João Valente, seja bem vindos aos meus códigos!
 
 Aqui você encontrará projetos que desenvolvi, mostrando minhas habilidades e experiência em tecnologias como React.js, React Native, Firebase e Design.
 
