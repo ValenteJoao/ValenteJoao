@@ -8,6 +8,14 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar aplicações web e mobile inc
 
 ## Habilidades
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Valente-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Valente-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Valente-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Valente-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Valente-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
 
 - **React.js**: Tenho ampla experiência no desenvolvimento de aplicações web utilizando o React.js. Sou capaz de criar componentes reutilizáveis, gerenciar o estado da aplicação de forma eficiente e utilizar bibliotecas populares para tarefas como roteamento e gerenciamento de estado global.
@@ -30,15 +38,6 @@ Aqui estão alguns dos meus projetos destacados:
 
 Estou sempre aberto(a) para colaborações, oportunidades de trabalho e projetos interessantes. Fique à vontade para entrar em contato comigo pelos seguintes meios:
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Valente-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Valente-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Valente-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Valente-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Valente-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
   ##
  
 <div> 
