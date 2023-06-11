@@ -4,7 +4,7 @@ Aqui você encontrará projetos que desenvolvi, mostrando minhas habilidades e e
 
 ## Sobre mim
 
-Sou um(a) desenvolvedor(a) apaixonado(a) por criar aplicações web e mobile incríveis. Meu foco principal é no desenvolvimento utilizando React.js e React Native, aproveitando as vantagens dessa poderosa biblioteca para criar interfaces interativas e de alta performance.
+Sou um estudante dedicado de programação, apaixonado por solucionar problemas e criar soluções inovadoras. Estou comprometido(a) em aprender continuamente e acompanhar as tendências do mundo da tecnologia. Meu foco principal é no desenvolvimento utilizando React.js e React Native, aproveitando as vantagens dessa poderosa biblioteca para criar interfaces interativas e de alta performance.
 
 ## Habilidades
 
