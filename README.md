@@ -31,7 +31,7 @@ Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
 Aqui estão alguns dos meus projetos destacados:
 
 - [Box Guard](https://github.com/ValenteJoao/box-guard): Sistema completo de gerenciamento de estoque desenvolvido com ReactJS e Firebase.
-- [Calculadora do Motorista](https://github.com/ValenteJoao/Calculadora-do-Motorista): Aplicativo de gestão financeira desenvolvido para motoristas de aplicativo.
+- [Calculadora do Motorista (Em Desenvolvimento)](https://github.com/ValenteJoao/Calculadora-do-Motorista): Aplicativo de gestão financeira desenvolvido para motoristas de aplicativo.
 - [Meme Memory Game](https://github.com/ValenteJoao/jogommg): Um divertido jogo da memória, que apresenta uma coleção de memes brasileiros.
 
 ## Contato
