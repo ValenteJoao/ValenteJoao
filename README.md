@@ -1,4 +1,4 @@
-# 👋 Olá eu sou João Valente, seja bem vindos aos meus códigos!
+# 👋
 
 Aqui você encontrará projetos que desenvolvi, mostrando minhas habilidades e experiência em tecnologias como React.js, React Native, Firebase e Design.
 
@@ -31,7 +31,7 @@ Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
 Aqui estão alguns dos meus projetos destacados:
 
 - [Box Guard](https://github.com/ValenteJoao/box-guard): Sistema completo de gerenciamento de estoque desenvolvido com ReactJS e Firebase.
-- [Calculadora do Motorista (Em Desenvolvimento)](https://github.com/ValenteJoao/Calculadora-do-Motorista): Aplicativo de gestão financeira desenvolvido para motoristas de aplicativo.
+- [Calculadora do Motorista (Em Desenvolvimento)]: Aplicativo de gestão financeira desenvolvido para motoristas de aplicativo.
 - [Valente Shop](https://github.com/ValenteJoao/store-valente): um projeto de exemplo que demonstra a implementação de um carrinho de compras utilizando a Context API do React para gerenciar o estado global do carrinho e o consumo de uma API RESTful para obter informações dos produtos.
 
 ## Contato
