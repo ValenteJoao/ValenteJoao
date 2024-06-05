@@ -22,6 +22,8 @@ Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
 
 - **React Native**: Além do desenvolvimento web, também sou habilidoso(a) no desenvolvimento de aplicativos mobile utilizando o React Native. Posso criar aplicativos nativos para iOS e Android, compartilhando a maior parte do código entre as plataformas e oferecendo uma experiência de usuário nativa.
 
+- **Next.js**: Além do desenvolvimento em react, também tenho experiência com o Next.js. Posso criar sites rápidos e escaláveis, proporcionando uma experiência de usuário suave e interativa.
+
 - **Firebase**: Tenho conhecimento em utilizar o Firebase para criar e gerenciar aplicativos com recursos como autenticação de usuários, armazenamento em nuvem, banco de dados em tempo real e hospedagem de aplicativos. Posso integrar o Firebase aos projetos para criar soluções escaláveis e seguras.
 
 - **Design**: Além das habilidades técnicas, tenho um olhar apurado para o design e a usabilidade. Acredito que uma interface bem projetada e intuitiva é fundamental para o sucesso de qualquer aplicação. Utilizo ferramentas como Figma e Adobe XD para criar protótipos e designs que atendam às necessidades dos usuários.
@@ -30,6 +32,7 @@ Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
 
 Aqui estão alguns dos meus projetos destacados:
 
+- [Real Rock] (https://github.com/ValenteJoao/RealRock): Este projeto é uma aplicação web desenvolvida com Next.js que utiliza SSR (Server-Side Rendering) para renderizar dinamicamente as páginas ao solicitar dados de uma API externa. A API utilizada é hospedada em https://my-json-server.typicode.com/ e fornece informações sobre as melhores bandas de rock do mundo.
 - [Box Guard](https://github.com/ValenteJoao/box-guard): Sistema completo de gerenciamento de estoque desenvolvido com ReactJS e Firebase.
 - [Calculadora do Motorista (Em Desenvolvimento)]: Aplicativo de gestão financeira desenvolvido para motoristas de aplicativo.
 - [Valente Shop](https://github.com/ValenteJoao/store-valente): um projeto de exemplo que demonstra a implementação de um carrinho de compras utilizando a Context API do React para gerenciar o estado global do carrinho e o consumo de uma API RESTful para obter informações dos produtos.
