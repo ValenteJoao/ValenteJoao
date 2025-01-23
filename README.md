@@ -1,16 +1,16 @@
 # 👋
 
-Bem-vindo ao meu perfil!
+Olá! Bem-vindo ao meu perfil no GitHub!
 
-Aqui você encontrará projetos que desenvolvi, demonstrando minhas habilidades e experiência em tecnologias como **React.js**, **React Native**, **.NET**, **Node.js**, **Firebase** e **Design**.
+Aqui você encontrará projetos que desenvolvi, mostrando minhas habilidades e experiência com **React.js**, **React Native**, **.NET**, **Node.js**, **Firebase** e **Design**.
 
 ## Sobre Mim
 
-Sou um desenvolvedor **Full Stack** dedicado e apaixonado por solucionar problemas e criar soluções inovadoras. Com uma base sólida em **.NET** e **Node.js**, aliado ao domínio de tecnologias front-end como **React.js** e **React Native**, estou comprometido em aprender continuamente e acompanhar as tendências do mundo da tecnologia. Meu foco principal é no desenvolvimento de aplicações robustas e escaláveis, utilizando tanto **bancos de dados relacionais** quanto **não relacionais** para atender às diversas necessidades dos projetos.
+Sou um desenvolvedor **Full Stack** dedicado, sempre em busca de resolver desafios e criar soluções eficientes. Com uma base sólida em **.NET** e **Node.js**, além do domínio de tecnologias front-end como **React.js** e **React Native**, estou sempre aprendendo e acompanhando as novidades do mundo da tecnologia. Meu foco é desenvolver aplicações robustas e escaláveis, utilizando **bancos de dados relacionais** e **não relacionais** para atender às diferentes necessidades dos projetos.
 
 ## Habilidades
 
-Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
+Aqui estão algumas das tecnologias e habilidades que possuo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Valente-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,10 +28,10 @@ Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
 - **Desenvolvimento Front-end**:
   - **React.js**: Criação de componentes reutilizáveis, gerenciamento eficiente de estado e utilização de bibliotecas para roteamento e gerenciamento global.
   - **React Native**: Desenvolvimento de aplicativos mobile nativos para iOS e Android, compartilhando grande parte do código entre as plataformas.
-  - **HTML5 & CSS3**: Construção de interfaces responsivas e acessíveis, com foco em design intuitivo e moderno.
+  - **HTML5 & CSS3**: Construção de interfaces responsivas e acessíveis, com foco em design moderno e intuitivo.
 
 - **Desenvolvimento Back-end**:
-  - **.NET**: Desenvolvimento de APIs robustas e seguras, implementando padrões de arquitetura e boas práticas de codificação.
+  - **.NET**: Desenvolvimento de APIs robustas e seguras, seguindo padrões de arquitetura e boas práticas de codificação.
   - **Node.js**: Criação de servidores escaláveis, gestão de rotas e integração com diversas APIs e serviços.
 
 - **Banco de Dados**:
@@ -43,23 +43,9 @@ Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
   - **Firebase**: Implementação de autenticação, armazenamento em nuvem, banco de dados em tempo real e hospedagem.
   - **Design**: Criação de protótipos e interfaces usando **Figma** e **Adobe XD**, garantindo usabilidade e estética.
 
-## Projetos Destacados
-
-Aqui estão alguns dos meus projetos mais destacados:
-
-- [**Real Rock**](https://github.com/ValenteJoao/RealRock): Aplicação web desenvolvida com **Next.js** que utiliza SSR (Server-Side Rendering) para renderizar dinamicamente as páginas ao solicitar dados de uma API externa. A API utilizada é hospedada em [my-json-server.typicode.com](https://my-json-server.typicode.com/) e fornece informações sobre as melhores bandas de rock do mundo.
-
-- [**Box Guard**](https://github.com/ValenteJoao/box-guard): Sistema completo de gerenciamento de estoque desenvolvido com **React.js** e **Firebase**, oferecendo funcionalidades como controle de inventário, relatórios e autenticação de usuários.
-
-- [**Calculadora do Motorista**](#): Aplicativo de gestão financeira em desenvolvimento, destinado a motoristas de aplicativos, permitindo o acompanhamento de ganhos, despesas e planejamento financeiro.
-
-- [**Valente Shop**](https://github.com/ValenteJoao/store-valente): Projeto de exemplo que demonstra a implementação de um carrinho de compras utilizando a Context API do React para gerenciar o estado global do carrinho e o consumo de uma API RESTful para obter informações dos produtos.
-
-- [**API de Gestão de Tarefas**](https://github.com/ValenteJoao/task-manager-api): API desenvolvida com **Node.js** e **Express**, conectada a um banco de dados **MongoDB**, permitindo a criação, leitura, atualização e exclusão de tarefas, com autenticação JWT.
-
 ## Contato
 
-Estou sempre aberto para colaborações, oportunidades de trabalho e projetos interessantes. Fique à vontade para entrar em contato comigo pelos seguintes meios:
+Estou sempre aberto a novas conexões, colaborações e oportunidades! Sinta-se à vontade para entrar em contato comigo pelos seguintes canais:
 
 <div> 
   <a href="mailto:valentejoao.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
@@ -74,7 +60,7 @@ Vamos conectar e criar coisas incríveis juntos!
 
 ## Agradecimento
 
-Agradeço por visitar meu perfil no GitHub e explorar meus projetos. Sinta-se à vontade para navegar pelos repositórios e verificar meus trabalhos. Estou ansioso para contribuir para a comunidade e aprender com outros desenvolvedores talentosos. Obrigado pela visita!
+Obrigado por visitar meu perfil no GitHub e explorar meus projetos. Sinta-se à vontade para navegar pelos repositórios e conferir meus trabalhos. Estou animado para contribuir com a comunidade e aprender com outros desenvolvedores talentosos. Agradeço pela visita!
 
 ---
 
