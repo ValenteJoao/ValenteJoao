@@ -2,11 +2,11 @@
 
 Olá! Bem-vindo ao meu perfil no GitHub!
 
-Aqui você encontrará projetos que desenvolvi, mostrando minhas habilidades e experiência com **React.js**, **React Native**, **.NET**, **Node.js**, **Firebase** e **Design**.
+Aqui você encontrará projetos que desenvolvi, mostrando minhas habilidades e experiência com **React.js**, **React Native**, **.NET**, **Node.js**, **UI/UX** e **Design**.
 
 ## Sobre Mim
 
-Sou um desenvolvedor **Full Stack** dedicado, sempre em busca de resolver desafios e criar soluções eficientes. Com uma base sólida em **.NET** e **Node.js**, além do domínio de tecnologias front-end como **React.js** e **React Native**, estou sempre aprendendo e acompanhando as novidades do mundo da tecnologia. Meu foco é desenvolver aplicações robustas e escaláveis, utilizando **bancos de dados relacionais** e **não relacionais** para atender às diferentes necessidades dos projetos.
+Sou um desenvolvedor **Full Stack** dedicado, sempre em busca de resolver desafios e criar soluções eficientes. Com uma base sólida em **.NET** e **Node.js**, além do domínio de tecnologias front-end como **React.js** e **React Native**, estou sempre aprendendo e acompanhando as novidades do mundo da tecnologia.
 
 ## Habilidades
 
@@ -24,24 +24,6 @@ Aqui estão algumas das tecnologias e habilidades que possuo:
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
-
-- **Desenvolvimento Front-end**:
-  - **React.js**: Criação de componentes reutilizáveis, gerenciamento eficiente de estado e utilização de bibliotecas para roteamento e gerenciamento global.
-  - **React Native**: Desenvolvimento de aplicativos mobile nativos para iOS e Android, compartilhando grande parte do código entre as plataformas.
-  - **HTML5 & CSS3**: Construção de interfaces responsivas e acessíveis, com foco em design moderno e intuitivo.
-
-- **Desenvolvimento Back-end**:
-  - **.NET**: Desenvolvimento de APIs robustas e seguras, seguindo padrões de arquitetura e boas práticas de codificação.
-  - **Node.js**: Criação de servidores escaláveis, gestão de rotas e integração com diversas APIs e serviços.
-
-- **Banco de Dados**:
-  - **Relacionais**: Experiência com **MySQL** e **SQL Server**, incluindo modelagem de dados, otimização de consultas e manutenção.
-  - **Não Relacionais**: Utilização de **MongoDB** para aplicações que requerem flexibilidade e escalabilidade.
-
-- **Outras Tecnologias**:
-  - **Next.js**: Desenvolvimento de sites rápidos e escaláveis com renderização no servidor.
-  - **Firebase**: Implementação de autenticação, armazenamento em nuvem, banco de dados em tempo real e hospedagem.
-  - **Design**: Criação de protótipos e interfaces usando **Figma** e **Adobe XD**, garantindo usabilidade e estética.
 
 ## Contato
 
