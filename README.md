@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=João%20Vitor%20Valente&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20.NET%20•%20React%20•%20Node.js&descAlignY=58&descSize=16" />
 
   <a href="https://github.com/seu-usuario">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00B7FF&center=true&vCenter=true&width=600&lines=Movido+a+caf%C3%A9+e+desafios+%E2%98%95;Construindo+APIs+robustas+com+.NET;Criando+interfaces+modernas+com+React;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=7761F4&center=true&vCenter=true&width=600&lines=Movido+a+desafios+e+boas+ideias+%F0%9F%92%A1;Construindo+APIs+robustas+com+.NET;Criando+interfaces+modernas+com+React;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visitas%20no%20perfil&color=00b7ff&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/seu-usuario?label=Followers&style=flat-square&color=00b7ff" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visitas%20no%20perfil&color=7761F4&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/seu-usuario?label=Followers&style=flat-square&color=7761F4" alt="followers" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="status" />
 
 </div>
@@ -26,7 +26,7 @@ public class JoaoVitor : IDeveloper
     public string[] Stack => new[] { ".NET", "React", "Node.js", "TypeScript" };
     public string Focus => "APIs escaláveis, Clean Architecture e UI moderna";
     public string CurrentlyLearning => "Microservices, DDD e Cloud Native";
-    public string Motto => "Código limpo, café forte e curiosidade infinita ☕";
+    public string Motto => "Código limpo e curiosidade infinita 🚀";
 }
 ```
 
@@ -35,7 +35,7 @@ Sou dev **Full Stack** com experiência sólida em **C# / .NET** e **Node.js** n
 - 🔭 Atualmente trabalhando com **APIs corporativas em .NET** e **interfaces React + Tailwind**
 - 🌱 Estudando **Clean Architecture, DDD, microsserviços e Cloud (Azure / AWS)**
 - 💬 Pergunte-me sobre **C#, .NET, React, Node.js ou arquitetura de software**
-- ⚡ Curiosidade: já tomei mais café do que dormi nos últimos anos 😅
+- 🎮 Nas horas vagas: streams na Twitch, jogos e conteúdo no YouTube
 
 ---
 
@@ -77,25 +77,6 @@ Sou dev **Full Stack** com experiência sólida em **C# / .NET** e **Node.js** n
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00b7ff&icon_color=00b7ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b7ff" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seu-usuario&theme=tokyonight&hide_border=true&background=0D1117&stroke=00b7ff&ring=00b7ff&fire=00b7ff&currStreakLabel=00b7ff" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 
 </div>
 
@@ -144,10 +125,10 @@ Sou dev **Full Stack** com experiência sólida em **C# / .NET** e **Node.js** n
 <div align="center">
 
   <a href="https://github.com/seu-usuario/projeto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b7ff&icon_color=00b7ff" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7761F4&icon_color=7761F4" />
   </a>
   <a href="https://github.com/seu-usuario/projeto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b7ff&icon_color=00b7ff" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7761F4&icon_color=7761F4" />
   </a>
 
 </div>
@@ -187,15 +168,9 @@ Se quiser conversar sobre tecnologia, colaborar em projetos ou só bater um papo
 
 <div align="center">
 
-### 💭 Frase do dia
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
 ⭐ **Curtiu algo por aqui?** Deixa uma estrela em algum repo, manda um PR ou só passa pra dar um oi.  
 **Tamo junto!** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,28,38&height=120&section=footer" />
 
 </div>
